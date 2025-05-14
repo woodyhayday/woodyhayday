@@ -44,8 +44,7 @@ Here and there I share thoughts on entrepreneurship, technology, and personal gr
 
 - **[Vibe Coding: A New System Of The World](https://hackernoon.com/vibe-coding-a-new-system-of-the-world)**: A piece for Hackernoon about the emergence of Vibe Coders
 - **[Surviving Burnout](https://woodyhayday.com/blog/burnout/)**: My experience with chronic fatigue and recovery.
-- **[Burnout Nutrition](https://woodyhayday.com/blog/burnout-nutrition/)**: Exploring supplements and strategies for energy restoration.
-- **[Experiments in Lifestyle Design](https://woodyhayday.com/blog/)**: Embracing imperfection and creative freedom.
+- **[Using a Gaming PC as an AI Image Generation Machine](https://profitswarm.ai/using-a-gaming-pc-as-an-ai-image-generation-machine/)**: AI Image Gen Monster
 
 Read more writings in these places: [Hackernoon](https://hackernoon.com/u/hayday?ref=hackernoon), [ProfitSwarm](https://profitswarm.ai/blog), or [WoodyHayday.com](https://woodyhayday.com/blog/)
 
