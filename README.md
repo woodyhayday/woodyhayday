@@ -27,7 +27,7 @@ Follow the journey and access resources:
 
 Explore a selection of my projects:
 
-- **[Strew Home Ed App](https://strew.app)**: An app designed to make home education reporting easy
+- **[Strew Home Education Tracker](https://strew.app)**: An app designed to make home education reporting easy
 - **[Project Pages](https://woodyhayday.com/projects/project-pages/)**: A WordPress plugin to document and showcase maker projects.
 - **[ZBS CRM](https://woodyhayday.com/projects/zero-bs-crm/)**: A WordPress CRM plugin which I co-founded then sold to Automattic
 - **[Weather Bot](https://woodyhayday.com/projects/weather-bot/)**: A Raspberry Pi-based weather station for environmental monitoring.
